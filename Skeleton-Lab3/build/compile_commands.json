@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/yuyan95/Documents/KTH/2021 Spring/Computer Graphics and Interaction/Skeleton-Lab3/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include -I/usr/local/lib -I/opt/local/include/SDL2 -O2 -Wall -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -mmacosx-version-min=10.14 -std=gnu++11 -o CMakeFiles/DgiLab.dir/skeleton.cpp.o -c \"/Users/yuyan95/Documents/KTH/2021 Spring/Computer Graphics and Interaction/Skeleton-Lab3/skeleton.cpp\"",
+  "file": "/Users/yuyan95/Documents/KTH/2021 Spring/Computer Graphics and Interaction/Skeleton-Lab3/skeleton.cpp"
+},
+{
+  "directory": "/Users/yuyan95/Documents/KTH/2021 Spring/Computer Graphics and Interaction/Skeleton-Lab3/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include -I/usr/local/lib -I/opt/local/include/SDL2 -O2 -Wall -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -mmacosx-version-min=10.14 -std=gnu++11 -o CMakeFiles/DgiLab.dir/SDL2Auxiliary.cpp.o -c \"/Users/yuyan95/Documents/KTH/2021 Spring/Computer Graphics and Interaction/Skeleton-Lab3/SDL2Auxiliary.cpp\"",
+  "file": "/Users/yuyan95/Documents/KTH/2021 Spring/Computer Graphics and Interaction/Skeleton-Lab3/SDL2Auxiliary.cpp"
+}
+]

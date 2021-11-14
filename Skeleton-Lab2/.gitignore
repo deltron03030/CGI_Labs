@@ -1,0 +1,18 @@
+# C++
+*.o
+a.out
+
+# CMake
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+
+# Vim
+*.swp
+
+# OS X files
+.DS_Store
+
+DgiLab
+screenshot.bmp
